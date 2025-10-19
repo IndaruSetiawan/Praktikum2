@@ -1,0 +1,5 @@
+1. Flowchart 1
+	Program dimulai dengan meminta pengguna memasukan 3 bilangan(A, B, C). Lalu program memeriksa apakah A > B, jika benar, A akan dibandingkan dengan C. Jika A > C, maka A adalah bilangan terbesar, jika tidak, C adalah bilangan yang terbesar. Tapi jika A tidak lebih besar dari B, maka B akan dibandingkan dengan C. Jika B > C, maka B adalah bilangan yang terbesar, jika tidak, C adalah bilangan yang terbesar. Setelah perbandingan selesai, program akan menampilkan bilangan yang terbesar diantara A, B, C dan program berakhir.
+
+2. Flowchart 2 
+	Program dimulai dan variable max diinisialisasi dengan nilai terkecil. Pengguna diminta memasukan jumlah bilangan yang ingin dibandingkan(N). Jika N belum 0, program akan meminta input 1 bilangan, jika bilangan tersebut lebih besar dari max, maka sementara max diubah menjadi bilangan tersebut. Tapi jika N sudah 0, max ditampilkan sebagai bilangan terbesar.
