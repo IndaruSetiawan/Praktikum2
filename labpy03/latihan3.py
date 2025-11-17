@@ -13,8 +13,8 @@ while True:
         print("Penarikan berhasil!")
         print()
         sisa_saldo = saldo - penarikan
-        print("Saldo saat ini:", sisa_saldo)
+        print("Saldo saat ini :", sisa_saldo)
 
     else:
-        print("Terima kasih telah menggunakan ATM!")
+        print("Terima kasih telah menggunakan atm ini!")
         break
